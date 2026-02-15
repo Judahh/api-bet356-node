@@ -36,6 +36,6 @@
   },
   "homepage": "https://github.com/victorratts13/api-bet356-node#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^1.13.5"
   }
 }
